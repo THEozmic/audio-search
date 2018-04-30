@@ -1,0 +1,59 @@
+if you are the host press star now
+5: otherwise please wait and you will be joined into the conference
+14.1: you are the only participant in the conference and kind of our natural language processing and kind of setup rule
+30.7: maybe if you see the words I will
+32.7: maybe if you see the words I will send you the text you should always include that
+35.2: that as a no we tried that it doesn't swell because it seems you got more complicated things like I will
+41.5: not send you the back door I don't want to send it back
+45: or I will send you exactly how to use an understanding right enough fuel to capture everything on earth
+56.5: keep learning is religiously for us because we're able to generalize the problem and not have to write
+62.1: every single rule rather give the system a bunch of data that says can you learn
+78.6: three major sections of how you would going for a and go to the selected for the first overall category is actually good getting a data and losing it I think this is something that's not very exercise
+104.3: also looking at how you how do how many
+106.3: also looking at how you how do what fram meters to choose and how do you actually Implement that is your food and then finally given that you have all that working what are you doing how do your motto of the following accurately is at getting it out of proving your business is that clean your bottom line
+127.8: how do you continue to improve when you're learning is moving
+131.9: i'm so first stop is the data sets that you have
+138.9: to collect and when you're kind of thinking it was for us like we are approaching it from a problem then point and we want
+146.4: to figure out how do we set up
+147.9: to figure out how do we celebrate the meeting notes
+149.4: we want a model to learn what's a good note and the Babies R Us looks like a bunch of see this thing meeting us to how do you collect that the first question
+160.5: ask yourself when you go to try
+162: to call me wait to do it
+166: or find open source data online such
+171.5: as from exhaust they're not contain here
+174.1: hopefully I'm not getting sick of eyes I think they have
+185.1: have over a hundred days. This is it off at 3 and I think the general Industries spending to buy more and more open data so that
+192.6: the mountains look up stix el pastor stephen morse thing that is getting the data from your users from you're just a product so if
+201.6: every meetings are users are falling out which ones are good with those are bad
+207.7: bad then are models able to train and get the hair
+211.7: once you figure out what kind of beer do you want to collect how to store and sexy not as straightforward
+219.2: straightforward as you would think the first approaches usually using Excel spreadsheets with every rose
+224.8: beautiful and on that day. unfortunately it gets really hard to manage after
+233.8: you have 10 or 15 or 20 all the way it's worth putting a little more thought into how can
+243.3: i automate the process of storing data
+248.4: we look to other databases SQL and kind of industry standard databases for storing
+258.9: information about remodeled and then what other options also
+263.9: important in this process in the beginning is thinking about how can
+267.4: i make sure all my data is this will save you a lot of headaches later down the line
+274.5: if you have if you change the way that you're collecting your data over like a month or two
+282.6: your model will not be able to distinguish between the different ways that you classified it
+287.1: percentage and you're staying on the scale from 0 to 1 and then at is there a task in there
+306.2: or if you want to look like how long is it
+309.2: or how treatable is it so it's important for your data in the system or not
+318.2: that your past it and you can work together
+323.2: mini models and still get around that I would say fire size breasts make sure that the store as much
+331.3: as you can and you look sexy in a sentence from a user store what user that was for what is a domain what is the topic and as much
+345: as you can over like kind of now
+347.5: you're set to early because I might be going to play later
+351.6: as you can and sexy and the sentence from a user store what user that was for what is a domain what is the topic and as much as you can over like kind of now you're set to early because I might be going to play later
+352.1: if you want look at it look like how long is it or how treatable is it's important for your data in the system format so that your past it and you can work together
+357.6: i'm so were looking at different databases and be kind of were trying to prioritize your time and reel time and time series on every record that comes in it's easy to go in and it didn't matter too much on which specific one that week
+381.3: we the Riu Santa Fe address
+389.8: okay so the next step is what you have
+391.8: all the state of store do you need
+392.8: to make sure that is properly labeled this stuff I think it's probably the most time-consuming stuff out of all these listed here that's
+404.9: because it really it might be easy to collect data from your users
+410.7: if you're not guaranteeing that they're labeled properly then when you run your model and it's three things
+424: things that you didn't expect it could be
+425.5: 440 so typically you how companies supposed today
+453: C4
