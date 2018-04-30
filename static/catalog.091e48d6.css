@@ -68,6 +68,19 @@
   position: absolute;
   top: 30px;
   font-size: 12px;
+  width: 100px;
+  background-color: #ececec;
+  border: 1px solid #d4d4d4;
+  margin-top: 3px;
+  padding: 5px;
+  border-radius: 3px;
+  color: #b7b7b7;
+}
+
+.label.isFocused, .label:focus, .shadow-seek:focus + .label {
+  z-index: 999999;
+  background-color: #ececec;
+  color: #000;
 }
 
 .marker-container {
@@ -1706,4 +1719,4 @@ striping:
 /* TODO: insert main styles of your demo here */
 /* TODO: insert default styles of your component here for easy access */
 
-/*# sourceMappingURL=catalog.ca050b5c.css.map*/
+/*# sourceMappingURL=catalog.091e48d6.css.map*/
