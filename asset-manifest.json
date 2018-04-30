@@ -1,16 +1,14 @@
 {
-  "catalog.css": "static/catalog.a4859a61.css",
-  "catalog.css.map": "static/catalog.a4859a61.css.map",
-  "catalog.js": "static/catalog.928e46ce.js",
-  "catalog.js.map": "static/catalog.928e46ce.js.map",
-  "manifest.js": "static/manifest.cd3662ed.js",
-  "manifest.js.map": "static/manifest.cd3662ed.js.map",
+  "catalog.css": "static/catalog.ca050b5c.css",
+  "catalog.css.map": "static/catalog.ca050b5c.css.map",
+  "catalog.js": "static/catalog.61f5d3dd.js",
+  "catalog.js.map": "static/catalog.61f5d3dd.js.map",
+  "manifest.js": "static/manifest.6cc09abb.js",
+  "manifest.js.map": "static/manifest.6cc09abb.js.map",
   "static/0.aa692a96.chunk.js": "static/0.aa692a96.chunk.js",
   "static/0.aa692a96.chunk.js.map": "static/0.aa692a96.chunk.js.map",
   "static/media/as-assessment.mp3": "static/media/as-assessment.9ce90277.mp3",
   "static/media/as-assessment.txt": "static/media/as-assessment.91c3fb07.txt",
-  "static/media/pause.svg": "static/media/pause.9e630d2b.svg",
-  "static/media/play.svg": "static/media/play.c3071fef.svg",
   "vendor.js": "static/vendor.3d71b93d.js",
   "vendor.js.map": "static/vendor.3d71b93d.js.map"
 }
